@@ -1,4 +1,4 @@
-import { testUtil } from './index';
+import { testUtil } from './mainComponent';
 
 describe('utils', () => {
   describe('.testUtil', () => {

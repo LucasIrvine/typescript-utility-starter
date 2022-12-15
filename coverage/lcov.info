@@ -23,7 +23,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src/constants/constants.ts
+SF:src/constants/mainComponent.ts
 FNF:0
 FNH:0
 DA:1,1
@@ -33,7 +33,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:src/utils/index.ts
+SF:src/utils/mainComponent.ts
 FN:1,(anonymous_0)
 FNF:1
 FNH:1

@@ -1,4 +1,4 @@
-import { EMPTY_STRING } from './constants';
+import { EMPTY_STRING } from './mainComponent';
 
 describe('constants', () => {
   describe('.EMPTY_STRING', () => {

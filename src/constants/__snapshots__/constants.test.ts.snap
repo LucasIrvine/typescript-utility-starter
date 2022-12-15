@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`constants .EMPTY_STRING should test computed constants so youo know if a child constant changes anything 1`] = `""`;

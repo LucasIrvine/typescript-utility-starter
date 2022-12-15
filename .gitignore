@@ -1,0 +1,4 @@
+node_modules
+/lib
+/coverage/lcov-report
+.DS_Store
